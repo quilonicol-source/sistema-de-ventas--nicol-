@@ -1,4 +1,5 @@
 print("=== MENÚ SISTEMA DE VENTAS ===")
 Precio = float(input("Precio: $"))
 cantidad = int(input("Cantidad: "))
+print("Subtotal:", Precio * cantidad)
 input("Entra para salir")
