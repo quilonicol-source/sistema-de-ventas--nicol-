@@ -1,5 +1,5 @@
 # Sistema de Ventas - Paso 2
-# Estudiante: Anderson
+# Estudiante: Nicol
 # Fecha: 22/06/2026
 
 while True:  # Bucle para vender varios productos
